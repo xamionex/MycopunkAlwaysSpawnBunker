@@ -4,8 +4,8 @@
         <TargetFramework>net462</TargetFramework>
         <AssemblyName>amione.MycopunkAlwaysSpawnBunker</AssemblyName>
         <Product>MycopunkAlwaysSpawnBunker</Product>
-        <ProductDescription>Adds in-game options for some of my other mods, does nothing by itself</ProductDescription>
-        <Version>1.0.6</Version>
+        <ProductDescription>Makes the bunker always spawn in Mycopunk</ProductDescription>
+        <Version>1.0.0</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
         <RestoreAdditionalProjectSources>
